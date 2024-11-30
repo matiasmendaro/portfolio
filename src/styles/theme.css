@@ -17,3 +17,13 @@
     --color-background-offset: theme("colors.gray.800");
     --color-border: theme("colors.gray.50" / 10%);
 }
+
+.profile-img-border{
+    border-radius: 50%;
+    /*-webkit-filter: drop-shadow(1px 1px 2px #222);
+    filter: drop-shadow(1px 1px 2px #222);*/
+}
+
+.btn-{
+    width: -webkit-fill-available;
+}
